@@ -1,0 +1,7 @@
+Package: poco
+Version: 1.13.3
+Depends: expat, pcre2, vcpkg-cmake, vcpkg-cmake-config, zlib
+Architecture: x64-windows
+Multi-Arch: same
+Abi: cf5b73600605cc761e5bc2508629bd3e6984c5bc7c32263ca30a86df1ba795f0
+Description: Modern, powerful open source C++ class libraries for building network and internet-based applications that run on desktop, server, mobile and embedded systems.
